@@ -4,7 +4,7 @@
 |-------|--------|------|
 |Italic|`*Italic* _Italic_`|*Italic* _Italic_
 |Bold|`**Bold** __Bold__`|**Bold** __Bold__
-|Bold|`***Bold*** ___Bold___`|***Bold Italic*** ___Bold Italic___
+|Bold Italic|`***Bold Italic*** ___Bold Italic___`|***Bold Italic*** ___Bold Italic___
 |Inline Links|`Go to [text](https://website.com "Title").`|Go to [AzureMentor](https://AzureMentor.azurewebsites.net "AzureMentor Official Website").
 |Inline Images|`Logo: ![alt text](/logo.png "Title")`|Logo: ![AzureMentor](https://avatars0.githubusercontent.com/u/30055505 "AzureMentor Logo")
 |Linked Images|`Linked logo: [![alt text](/logo.png)](https://website.com/ "Title")`|Linked logo: [![alt text](https://avatars0.githubusercontent.com/u/30055505)](https://AzureMentor.azurewebsites.net "AzureMentor Official Website")
